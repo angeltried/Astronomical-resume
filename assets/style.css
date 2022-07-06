@@ -115,6 +115,13 @@ marquee{
     font-size:5rem;
 }
 
+.angel{
+    position: absolute;
+    top: 1%;
+    border-radius: 2px;
+    margin-left:10px;
+}
+
 h1{
     color:black;
     margin-right: 20px;
